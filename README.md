@@ -2,4 +2,4 @@
 
 IoT Based Smart Agriculture Using ESP32
 
-![OUTPUT](Wiring diagram.jpg)
+![OUTPUT](Wiring Diagram.jpg)
